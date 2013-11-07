@@ -1,0 +1,33 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+
+.panel-heading {
+  font-size: 150%;
+  font-weight: bold;
+}
+
+.panel-tool  {
+  border-color: #1f477d;
+}
+
+.panel-tool > .panel-heading {
+  color: #ffffff;
+  background-color: #1f477d;
+  border-color: #1f477d;
+}
+
+.panel-footer {
+  padding: 10px 15px;
+  background-color: #1f477d;
+  border-top: 1px solid #1f477d;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  color: #ffffff;
+}
+
+.panel-tool a:link, .panel-tool a:visited, .panel-tool a:hover, .panel-tool a:active {
+  color: #ffffff;
+  text-decoration: none;
+}

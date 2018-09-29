@@ -26,10 +26,14 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
     },
     "dependencies": {
-        "bootstrap": "4.0.0",
+        "bootstrap": "4.1.2",
         "font-awesome": "4.7.0",
+        "grunt": "^1.0.2",
+        "hoek": "^5.0.3",
         "jquery": "3.3.1",
-        "jquery.easing": "^1.4.1"
+        "jquery.easing": "^1.4.1",
+        "npm": "^6.1.0",
+        "popper": "^1.0.1"
     },
     "devDependencies": {
         "browser-sync": "2.23.6",
